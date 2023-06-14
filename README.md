@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeuneB07
 - 👀 I’m interested in videogames and mobile apps development and design. I would like to focus my future on that, but I am open to differents areas. 
-- 🌱 I’m currently learning some native development technologies as Flutter and Ionic, specially in mobile apps. I want to finish developing and helping in this things. Some experience with Angular, Java, NodeJs or TypeScript.
-- 💞️ I’m looking to collaborate on differente projects to become an experienced user in any technology. 
+- 🌱 I’m currently learning some native development technologies as Flutter or Svelte, focus on mobile apps and web development. Some experience with Angular, Java, NodeJs or TypeScript.
+- 💞️ Always looking to collaborate on different projects to become an experienced user. 
 - 📫 How to reach me? Well! You can send me a message to my email o GitHub profile! 
 
 <!---
